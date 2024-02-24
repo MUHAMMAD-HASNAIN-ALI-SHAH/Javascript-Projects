@@ -1,2 +1,2 @@
 # Javascript-Projects
-There are basic some projects for the html and javascript Practics
+There are some basic projects for the html and javascript Practics
